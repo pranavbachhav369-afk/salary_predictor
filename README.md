@@ -78,3 +78,7 @@ Pranav Bachhav
 ## ⭐ Note
 
 This project was developed for learning Data Cleaning, Feature Engineering, and Machine Learning workflows using Python.
+
+**Live Project:**
+Frontend: https://future-pay-dreamlovableapp.lovable.app
+Backend: https://salary-predictor-1-rult.onrender.com/predict
